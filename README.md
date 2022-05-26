@@ -1,4 +1,4 @@
-## -AndroidStudio-
+## 基于AndroidStudio的打地鼠小游戏
 # 基于AndroidStudio的打地鼠小游戏
 # 以上是结构目录以及素材缩略图
 ![image](https://user-images.githubusercontent.com/51870570/170437525-22901c45-b6c5-485f-a613-41e02cc679e1.png)
